@@ -51,22 +51,6 @@ Tôi là **sinh viên năm cuối** chuyên ngành **Kỹ thuật Phần mềm**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Awac8989&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awac8989&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Awac8989&theme=tokyonight)
-  
-</div>
-
----
 
 ## 🏆 GitHub Trophy
 
