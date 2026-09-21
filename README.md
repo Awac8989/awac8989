@@ -6,17 +6,6 @@
   
 </div>
 
-## 🚀 Giới thiệu
-
-Tôi là **sinh viên năm cuối** chuyên ngành **Kỹ thuật Phần mềm** tại **Đại học Thủ Dầu Một**. Với đam mê mãnh liệt về công nghệ và lập trình, tôi luôn tìm kiếm cơ hội để áp dụng kiến thức vào các dự án thực tế và phát triển bản thân trong môi trường chuyên nghiệp.
-
-<div align="center">
-
-### 💫 "Code is poetry written in logic"
-
-</div>
-
----
 
 ## 🛠️ Kỹ Năng & Công Nghệ
 
@@ -68,62 +57,5 @@ Tôi là **sinh viên năm cuối** chuyên ngành **Kỹ thuật Phần mềm**
   
   ![Snake animation](https://raw.githubusercontent.com/Awac8989/Awac8989/output/github-contribution-grid-snake.svg)
   
-</div>
 
----
 
-## 🎯 Mục tiêu hiện tại
-
-- 🔭 **Đang tìm kiếm cơ hội thực tập** trong lĩnh vực phát triển phần mềm
-- 🌱 **Học tập không ngừng** về DevOps và Cloud Computing
-- 👯 **Sẵn sàng cộng tác** trong các dự án mã nguồn mở
-- ⚡ **Mục tiêu 2025**: Trở thành Full-stack Developer
-
----
-
-## 💼 Thông tin liên hệ
-
-<div align="center">
-
-### 📫 Kết nối với tôi
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhquandoan66@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-qu%C3%A2n-%C4%91o%C3%A0n-234a86305/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhquan.doan.3785)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/0915975717)
-
-**📱 Điện thoại:** 0915 975 717  
-**📍 Địa chỉ:** Bình Dương, Việt Nam  
-**🎓 Chứng chỉ:** TOEIC 600
-
-</div>
-
----
-
-## 📚 Thành tích học tập
-
-<div align="center">
-
-🏫 **Đại học Thủ Dầu Một** - Kỹ thuật Phần mềm  
-🎯 **Sinh viên năm cuối** (Dự kiến tốt nghiệp 2025)  
-🌍 **TOEIC 600** - Trình độ tiếng Anh trung cấp
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Awac8989.Awac8989&left_color=00BFFF&right_color=001F3F)
-  
-  ### 💙 Cảm ơn bạn đã ghé thăm profile của tôi!
-  
-  *"Mỗi dòng code đều là một bước tiến tới tương lai"*
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
